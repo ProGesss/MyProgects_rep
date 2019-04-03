@@ -98,10 +98,8 @@ switch ($deliveryType){
     case 'express':
         break;
     default:
-        echo 'GO HO1ME';
+        echo 'GO HOME';
         break;
 }
 
 ?>
-
-fd
