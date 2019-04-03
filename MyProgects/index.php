@@ -101,5 +101,5 @@ switch ($deliveryType){
         echo 'GO HOME';
         break;
 }
-    echo "Hello";
+    echo "Hello))!";
 ?>
