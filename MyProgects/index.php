@@ -76,30 +76,37 @@
 //echo '<br>';
 //echo 'Next';
 
-$deliveryType = 'express';
+//$deliveryType = 'express';
+//
+//if($deliveryType == 'nova_poshta'){
+//    echo 'nova_poshta';
+//}elseif ($deliveryType == 'ukr_poshta'){
+//    echo 'ukr_poshta';
+//}elseif ($deliveryType == 'express'){
+//    echo 'express';
+//}else{
+//    echo 'GO HOME';
+//}
+//
+//switch ($deliveryType){
+//    case 'nova_poshta':
+//        echo 'nova_poshta';
+//        dreak;
+//    case 'ukr_poshta':
+//        echo 'ukr_poshta';
+//        dreak;
+//    case 'express':
+//        break;
+//    default:
+//        echo 'GO HOME';
+//        break;
+//}
+//    echo "Hello))!";
 
-if($deliveryType == 'nova_poshta'){
-    echo 'nova_poshta';
-}elseif ($deliveryType == 'ukr_poshta'){
-    echo 'ukr_poshta';
-}elseif ($deliveryType == 'express'){
-    echo 'express';
-}else{
-    echo 'GO HOME';
-}
+//$array = array(1,2,3,4,5,'asd', false, 12.2);
+//
+//print_r($array[5]);
+//die();
+//$array2 = [1,2,3,4,5,'asd', false, 12,2];
 
-switch ($deliveryType){
-    case 'nova_poshta':
-        echo 'nova_poshta';
-        dreak;
-    case 'ukr_poshta':
-        echo 'ukr_poshta';
-        dreak;
-    case 'express':
-        break;
-    default:
-        echo 'GO HOME';
-        break;
-}
-    echo "Hello))!";
 ?>
